@@ -1,6 +1,6 @@
 ## Tic-Tac-Toe Game
 
-Experience the classic Tic-Tac-Toe game with a sleek and user-friendly interface, crafted using HTML, CSS, JavaScript, and jQuery.
+Experience the classic Tic-Tac-Toe game with a sleek and user-friendly interface, crafted using HTML, CSS, JavaScript.
 
 ### Features
 - Engage in a two-player game where users take turns placing X's and O's on the grid.
